@@ -22,4 +22,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepuchary03&show_icons=true&locale=en&layout=compact" alt="deepuchary03" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepuchary03&" alt="deepuchary03" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepuchary03&"alt="deepuchary03" /></p>
