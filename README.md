@@ -17,6 +17,29 @@
 </p>
 
 <p align="center">
+    <a href="https://www.credly.com/badges/c39402a0-9985-4fdd-be19-df85c8dcdcc3">
+        <img width="120px" height="120px" src="https://images.credly.com/size/220x220/images/d8f7a9d6-dad9-40cc-b389-a343d2d72a9e/blob" alt="Credly Badge">
+    </a>
+    <br>
+    <strong></strong>
+    <br>
+    <strong>Awarded:</strong> April 06, 2025
+    <br>
+    <a href="https://www.credly.com/badges/c39402a0-9985-4fdd-be19-df85c8dcdcc3" style="border: solid 1px black; padding: 6px 16px; text-decoration: none; color: black;">VERIFY</a>
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+<p align="center">
     <img src="https://komarev.com/ghpvc/?username=deepuchary03&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
