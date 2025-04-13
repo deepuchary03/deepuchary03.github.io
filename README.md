@@ -125,4 +125,4 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=deepuchary03&show_icons=true&locale=en&layout=compact)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=deepuchary03)
+![GitHubStreak](https://github-readme-streak-stats.herokuapp.com/?user=deepuchary03)
